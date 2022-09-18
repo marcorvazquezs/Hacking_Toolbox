@@ -7,7 +7,6 @@ Every section contains:
 - README.md - Vulnerability description and how to exploit it
 - Snippets of payloads
 
-## Tools!
----
+# Tools!
   - [Payloads](Payloads/README.md)
   - [Privilege Escalation](Privilege%20Escalation/README.md)
