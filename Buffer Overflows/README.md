@@ -1,4 +1,5 @@
 - [Buffer Overflow Exploit Guide](https://github.com/Tib3rius/Pentest-Cheatsheets/blob/master/exploits/buffer-overflows.rst)
 
 ## Scripts 
-- [Fuzzer](fuzzer.py)
+- [fuzzer.py](fuzzer.py)
+- [exploit.py](exploit.py)
