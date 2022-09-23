@@ -4,9 +4,9 @@ A toolbox full of useful payloads and bypasses. 🧰🛠
 
 Every section contains:
 
-- README.md 
+- README.md
   - Vulnerability description and how to exploit it
-  - Snippets of payloads
+  - Snippets of payloads/exploits/attacks
 
 # Toolbox
   - [Enumeration](Enumeration/README.md)
