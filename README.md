@@ -10,6 +10,7 @@ Every section contains:
 
 # Toolbox
   - [Enumeration](Enumeration/README.md)
+  - [Brute Forcing](Brute%20Forcing/README.md)
   - [Buffer Overflows](Buffer%20Overflows/README.md)
   - [Payloads](Payloads/README.md)
   - [Privilege Escalation](Privilege%20Escalation/README.md)
