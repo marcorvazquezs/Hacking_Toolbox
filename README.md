@@ -8,7 +8,8 @@ Every section contains:
   - Vulnerability description and how to exploit it
   - Snippets of payloads
 
-# Toolbox 
+# Toolbox
+  - [Enumeration](Enumeration/README.md)
   - [Buffer Overflows](Buffer%20Overflows/README.md)
   - [Payloads](Payloads/README.md)
   - [Privilege Escalation](Privilege%20Escalation/README.md)
