@@ -21,5 +21,7 @@
   - Verify configuration was applied to LDAP
     `ldapsearch -H ldap:// -x -LLL -s base -b "" supportedSASLMechanisms`
     
+    ![Result confirmation](screenshots/2022-10-01-14-25-14.png)
+    
 - Start a Netcat listener (default LDAP port is 389)
   `nc -nlvp 389`
