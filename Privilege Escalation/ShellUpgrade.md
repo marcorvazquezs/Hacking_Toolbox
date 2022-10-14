@@ -4,3 +4,5 @@
 
 ` python -c 'import pty;pty.spawn("/bin/bash")'`
 
+`SHELL=/bin/bash script -q /dev/null`
+
