@@ -1,4 +1,4 @@
-# OSINT Tools 
+# OSINT Tools
 
 - [Recon-ng](https://github.com/lanmaster53/recon-ng)
 - [Google Hacking Database](https://www.exploit-db.com/google-hacking-database)
@@ -8,3 +8,10 @@
 - [FOCA](https://github.com/ElevenPaths/FOCA?tab=readme-ov-file)
 - [Maltego](https://www.maltego.com/)
 - [LinkedInt](https://github.com/vysecurity/LinkedInt)
+
+## DNS
+
+- [Dnsrecon](https://www.kali.org/tools/dnsrecon/)
+- [Dnsenum](https://www.kali.org/tools/dnsenum/)
+- [Fierce](https://www.kali.org/tools/fierce/)
+- [Dsniff](https://www.kali.org/tools/dsniff/)
